@@ -14,3 +14,7 @@ This theme provides a clean skeleton layout built with WordPress best practices.
 1. Download or clone this repository:
    ```bash
    git clone https://github.com/username/theme-name.git
+
+2. For Dart Sass compilation, from the root directory, run
+   ```bash
+   sass --watch sass/style.scss assets/css/alnur-style.css
